@@ -13,7 +13,7 @@ I investigated this question using **Cohere Labs Tiny Aya Fire (3.35B)** across 
 
 The experiments examine how multilingual fine-tuning and harmful training-data contamination affect model safety, and whether RESTA and Safe LoRA can repair the resulting drift.
 
-## " Certain Output cells might not be there due to memory constraint of 30 GB, so i restarted the kernel & cleared outputs.check the final output attached via Kaggle Notebook Link and 3rd link below for Run1, Run2, Run3 "
+## " Certain Output cells might not be there due to memory constraint of 30 GB, so i restarted the kernel & cleared outputs.check the final output attached via Kaggle Notebook Link and 3rd link below for the results of Run1, Run2, Run3 "
 
 ## Project Resources
 
