@@ -1,4 +1,5 @@
-# SafetyPatch: Repairing Cross-Lingual Safety Drift in Tiny Aya Without Retraining
+# SafetyDrift
+Multilingual safety drift and weight-space repair in Tiny Aya Fire
 
 **Lexsi Labs AI Safety & Alignment Hackathon 2026**  
 **Track 2b.2 — Repairing Safety Drift Without Retraining**  
